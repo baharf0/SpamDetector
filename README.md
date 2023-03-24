@@ -1,1 +1,3 @@
-# SpamDetector
+# SpamDetector 
+
+using Bayesian Probability
